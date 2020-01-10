@@ -2,6 +2,8 @@
 
 # Thrift Saving Plan
 
+![Home Page](https://github.com/cusey/ImageForWiki/blob/master/tspweb/home_page.PNG)
+
 ## Django Shell     
 
 ### Start the Shell    
